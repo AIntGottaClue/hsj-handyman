@@ -1,0 +1,102 @@
+{
+ "name": "Handyman Demo",
+ "brandColor": "#c0392b",
+ "tagline": "",
+ "phone": "(012) 214-5678",
+ "email": "info@example.com",
+ "address": "123 Main Street, Your City, ST 00000",
+ "about": "GHS is a full service company that specializes in home repairs, from start to finish. Staff has been experienced and knowledgeable of their craft Expert & Professional Engineers for Projects Quality Services 24X7 Customer Support Helpline Quality Support Best Project",
+ "heroTitle": "Professional Handyman Services",
+ "heroImage": "images/banner4.jpg",
+ "formAction": "#",
+ "customCss": "",
+ "menu": [
+  {
+   "title": "Home",
+   "url": "/"
+  },
+  {
+   "title": "About",
+   "url": "/about/"
+  },
+  {
+   "title": "Services",
+   "url": "/services/",
+   "children": [
+    {
+     "title": "Assembly",
+     "url": "/assembly/"
+    },
+    {
+     "title": "Cleaning",
+     "url": "/cleaning/"
+    },
+    {
+     "title": "Moving",
+     "url": "/moving/"
+    },
+    {
+     "title": "Painting",
+     "url": "/painting/"
+    },
+    {
+     "title": "Plumbing",
+     "url": "/plumbing/"
+    },
+    {
+     "title": "TV & Electronics",
+     "url": "/tv-electronics/"
+    }
+   ]
+  },
+  {
+   "title": "Gallery",
+   "url": "/gallery/"
+  },
+  {
+   "title": "News",
+   "url": "/blog/"
+  },
+  {
+   "title": "Contact",
+   "url": "/contact/"
+  }
+ ],
+ "servicesMenu": [
+  {
+   "title": "Painting",
+   "url": "/painting/",
+   "order": 1
+  },
+  {
+   "title": "Assembly",
+   "url": "/assembly/",
+   "order": 2
+  },
+  {
+   "title": "Cleaning",
+   "url": "/cleaning/",
+   "order": 3
+  },
+  {
+   "title": "Moving",
+   "url": "/moving/",
+   "order": 4
+  },
+  {
+   "title": "TV & Electronics",
+   "url": "/tv-electronics/",
+   "order": 5
+  },
+  {
+   "title": "Plumbing",
+   "url": "/plumbing/",
+   "order": 6
+  }
+ ],
+ "blogPage": {
+  "title": "News",
+  "banner": "images/banner2.jpg",
+  "bg_position": "center"
+ }
+}

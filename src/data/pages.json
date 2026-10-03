@@ -1,0 +1,385 @@
+[
+ {
+  "slug": "about",
+  "title": "About",
+  "banner": "images/banner4.jpg",
+  "bg_position": "center",
+  "sections": [
+   {
+    "layout": "about_section",
+    "image": "images/img3@2x.jpg",
+    "image_position": "1",
+    "title": "ABOUT US",
+    "content": "We are a Team of Professional Handyman's Experts in serving the GHS Industry for 10 years throughout all Counties. We feel No job is too large or too small.\n\n10 Years of Quality GHS Experience in doing the following jobs:\n<ul>\n \t<li>Cleaning</li>\n \t<li>Plumbing</li>\n \t<li>TV &amp; Electronics</li>\n \t<li>Painting</li>\n \t<li>Moving</li>\n \t<li>Assembly</li>\n</ul>\nWe are a locally owned and operated company. Our friendly technicians provide high quality work at an affordable price, with professional service that you can trust!\n\nWe know that hiring a handyman is not always easy, so we want to make it as simple and stress-free for you! Our Handyman Services options are proudly offered at very affordable rates. Give us call today by filling out the form on Contact Us page or give directly via phone call if preferred - no matter how your needs arise don't hesitate in contacting one of our professional contractors who will be happy go help serve them up right just like they should."
+   },
+   {
+    "layout": "counter_section",
+    "background": "images/bg.jpg",
+    "counter": [
+     {
+      "icon": "fa-trophy",
+      "title": "100s of",
+      "subtitle": "Finished Projects"
+     },
+     {
+      "icon": "fa-thumbs-up",
+      "title": "100s of",
+      "subtitle": "Happy Clients"
+     },
+     {
+      "icon": "fa-certificate",
+      "title": "10+",
+      "subtitle": "Years Experience"
+     },
+     {
+      "icon": "fa-home",
+      "title": "100s of",
+      "subtitle": "Handyman Jobs Completed"
+     }
+    ],
+    "title": "",
+    "subtitle": ""
+   },
+   {
+    "layout": "default_section",
+    "background_color": "#f7f7f7",
+    "title": "Why Choose Us ",
+    "subtitle": "",
+    "content": "The Handyman's Service Company is one of the most experienced and respected buildings &amp; construction firms for over a century. We have been transforming the ideas and visions of our clients into award-winning projects.\n<ul>\n \t<li>Financial Responsibility to Our Clients</li>\n \t<li>Superior Quality and Craftsmanship</li>\n \t<li>Quality and Value to the Projects We Deliver</li>\n \t<li>Highest Standards in Cost Control</li>\n \t<li>On Time and on Budget</li>\n \t<li>Real Focus on Customer Satisfaction</li>\n</ul>"
+   },
+   {
+    "layout": "testimonial_section",
+    "title": "Happy Clients",
+    "subtitle": "OUR TESTIMONIALS",
+    "testimonials": [
+     {
+      "name": "Tom G",
+      "image": "images/t2.png",
+      "content": "<p>\"This company was recommended by friends and I have to say they have exceeded every expectation I had for the quality of their work, schedule flexibility, follow-through, accountability.\"</p>"
+     },
+     {
+      "name": "Nick P",
+      "image": "images/t1.png",
+      "content": "<p>\"I can't say enough good things about these guys, they run a great crew and do incredible work! They are very versatile in their knowledge and abilities.\"</p>"
+     }
+    ]
+   }
+  ],
+  "content": ""
+ },
+ {
+  "slug": "services",
+  "title": "Services",
+  "banner": "images/banner.jpg",
+  "bg_position": "center",
+  "sections": [
+   {
+    "layout": "services_section",
+    "title": "Expert & Professional",
+    "subtitle": "",
+    "Services": [
+     {
+      "image": "images/services4.png",
+      "title": "Cleaning",
+      "content": "<p>When it comes to maintaining the hygiene of your home, a professional cleaning service is key. We use bio-degradable chemicals and  the latest cleaning equipment.</p>",
+      "url": "/cleaning/"
+     },
+     {
+      "image": "images/services1.png",
+      "title": "TV & Electronics",
+      "content": "<p>Setting up a home entertainment system is not easy. We love fixing all sorts of electronic devices with!</p>",
+      "url": "/tv-electronics/"
+     },
+     {
+      "image": "images/services2.png",
+      "title": "Assembly",
+      "content": "<p>The assembly process can be confusing and time-consuming, but not with us! They’ll take care of getting your furniture out on the floor for you.</p>",
+      "url": "/assembly/"
+     },
+     {
+      "image": "images/services3.png",
+      "title": "Plumbing",
+      "content": "<p>We are the plumber that’s right for you. No matter what your plumbing needs, from maintenance and repairs to replacement or new construction projects.</p>",
+      "url": "/plumbing/"
+     },
+     {
+      "image": "images/services4.png",
+      "title": "Painting",
+      "content": "<p>When painting services are needed, it is important to hire a team that has experience with the job at hand. Our company offers everything you need for your next fresh coat of paint!</p>",
+      "url": "/painting/"
+     },
+     {
+      "image": "images/services1.png",
+      "title": "Moving",
+      "content": "<p>We know how stressful it can be to move house, and we want you to have a smooth transition.</p>",
+      "url": "/moving/"
+     }
+    ]
+   },
+   {
+    "layout": "three_column_section",
+    "title": "WE ARE THE EXPERT ON THIS FIELD, BETTER BUILDING SOLUTIONS.",
+    "subtitle": "",
+    "column": [
+     {
+      "icon": "fa-bullseye",
+      "title": "Creative Pre Plannings",
+      "subtitle": ""
+     },
+     {
+      "icon": "fa-users",
+      "title": "Team With Hardwork",
+      "subtitle": ""
+     },
+     {
+      "icon": "fa-trophy",
+      "title": "We Deliver Quality",
+      "subtitle": ""
+     }
+    ]
+   },
+   {
+    "layout": "widget_section",
+    "background": "images/banner4.jpg",
+    "title": "Our Company Certifications",
+    "subtitle": "Good buildings come from good people, and all problems are solved by good design",
+    "widget": [
+     {
+      "icon": "fa-building-o",
+      "title": "COMPANY BUILDINGS",
+      "subtitle": ""
+     },
+     {
+      "icon": "fa-home",
+      "title": "RURAL BUILDINGS",
+      "subtitle": ""
+     },
+     {
+      "icon": "fa-shopping-basket",
+      "title": "SHOPPING MALLS",
+      "subtitle": ""
+     }
+    ]
+   },
+   {
+    "layout": "gallery_section",
+    "title": "Our Feature Works",
+    "subtitle": "Our Projects",
+    "gallery": []
+   }
+  ],
+  "content": ""
+ },
+ {
+  "slug": "gallery",
+  "title": "Gallery",
+  "banner": "images/banner3.jpg",
+  "bg_position": "center",
+  "sections": [
+   {
+    "layout": "masonry_gallery",
+    "title": "",
+    "subtitle": "",
+    "gallery": [
+     {
+      "title": "Gallery 1",
+      "gallery": [
+       "images/g4.jpg",
+       "images/g5.jpg"
+      ]
+     },
+     {
+      "title": "Gallery 2",
+      "gallery": [
+       "images/g6.jpg",
+       "images/g7.jpg"
+      ]
+     },
+     {
+      "title": "Gallery 3",
+      "gallery": [
+       "images/g8.jpg",
+       "images/gal1.jpg"
+      ]
+     }
+    ]
+   }
+  ],
+  "content": ""
+ },
+ {
+  "slug": "contact",
+  "title": "Contact",
+  "banner": "images/banner4.jpg",
+  "bg_position": "center",
+  "sections": [],
+  "content": ""
+ },
+ {
+  "slug": "home",
+  "title": "Home",
+  "banner": "",
+  "bg_position": "center",
+  "sections": [
+   {
+    "layout": "about_section",
+    "image": "images/about.jpg",
+    "image_position": "0",
+    "title": "What We Do",
+    "content": "GHS is a full service company that specializes in home repairs, from start to finish. Staff has been experienced and knowledgeable of their craft\n<ul>\n \t<li><em>Expert &amp; Professional Engineers for Projects</em></li>\n \t<li><em>Quality Services</em></li>\n \t<li><em>24X7 Customer Support Helpline</em></li>\n \t<li><em>Quality Support</em></li>\n \t<li><em>Best Project Management Team</em></li>\n</ul>\n\n<hr />\n\n<h3>What Sets Us Apart</h3>\nOur Handyman's main priority is to provide excellent services through which we strive for 100% quality of work delivered at a low price. We serve any task made available in record time with great results and efficiency!"
+   },
+   {
+    "layout": "get_started_section",
+    "title": "Ready To Get Started?",
+    "content": "<p>Contact us now for your FREE initial consultation so we can<br />explain exactly what we can do for you!</p>",
+    "button": [
+     {
+      "button_text": "Schedule A Service",
+      "button_style": "0",
+      "url": "/contact/"
+     },
+     {
+      "button_text": "CALL: (012) 214-5678",
+      "button_style": "1",
+      "url": "tel:(012) 214-5678"
+     }
+    ],
+    "background": "images/pattern.jpg",
+    "box_section": [
+     {
+      "background_type": "1",
+      "image": "images/banner4.jpg",
+      "title": "We Shape the Perfect Solution for Company",
+      "content": "<p>GHS Handyman is your personal, trusted home improvement consultant. With over 15 years of experience in the industry GHS can provide you with all types services that will help make any project easier and more successful!</p>",
+      "button_type": "0",
+      "button_text": "Read More",
+      "url": "/services/"
+     },
+     {
+      "background_type": "0",
+      "title": "Your Best Option in Handyman Contractors 24/7",
+      "content": "<p>We're proud to be the go-to company for fast, professional repairs. Our satisfied customers recommend us because they know that we'll deliver what you need at a fair price with quick turnaround time and excellent service!</p>",
+      "button_type": "1",
+      "button_text": "Read More",
+      "url": "/services/"
+     }
+    ],
+    "additional_title": "Not Only Qualified, But Fully Certified!",
+    "additional_content": "<p>We have a team of fully-qualified handymen and apprentices who are happy to fix any repair or construction problem with their smiling faces.</p>",
+    "additional_button_text": "Read More",
+    "additional_url": "/services/",
+    "services": [
+     {
+      "image": "images/icon4.png",
+      "title": "Cleaning",
+      "url": "/cleaning/"
+     },
+     {
+      "image": "images/icon5.png",
+      "title": "TV & Electronics",
+      "url": "/tv-electronics/"
+     },
+     {
+      "image": "images/icon6.png",
+      "title": "Assembly",
+      "url": "/assembly/"
+     },
+     {
+      "image": "images/icon1.png",
+      "title": "Plumbing",
+      "url": "/plumbing/"
+     },
+     {
+      "image": "images/icon2.png",
+      "title": "Painting",
+      "url": "/painting/"
+     },
+     {
+      "image": "images/icon3.png",
+      "title": "Moving",
+      "url": "/moving/"
+     }
+    ]
+   },
+   {
+    "layout": "gallery_section",
+    "title": "Our Feature Works",
+    "subtitle": "Our Projects",
+    "gallery": [
+     "images/gal2.jpg",
+     "images/gal3.jpg",
+     "images/gal4.jpg",
+     "images/gal5.jpg",
+     "images/gal1.jpg",
+     "images/gal6.jpg"
+    ]
+   },
+   {
+    "layout": "testimonial_section",
+    "title": "Happy Clients",
+    "subtitle": "OUR TESTIMONIALS",
+    "testimonials": [
+     {
+      "name": "Nick P",
+      "image": "images/t1.png",
+      "content": "<p>\"I can't say enough good things about these guys, they run a great crew and do incredible work! They are very versatile in their knowledge and abilities.\"</p>"
+     },
+     {
+      "name": "Tom G",
+      "image": "images/t2.png",
+      "content": "<p>\"This company was recommended by friends and I have to say they have exceeded every expectation I had for the quality of their work, schedule flexibility, follow-through, accountability.\"</p>"
+     }
+    ]
+   }
+  ],
+  "content": ""
+ },
+ {
+  "slug": "tv-electronics",
+  "title": "TV & Electronics",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "Setting up a home entertainment system is not easy and  can be really frustrating. We love fixing all sorts of electronic devices! If you have any questions about computers or entertainment systems give us a call today so we don't miss out on this opportunity, to get things figured out together.\n<h2>Complete the Room</h2>\nBy now you may have realized that your brand new 4K TV doesn't look as good mounted on the wall than it does sitting in a box. Don’t worry, we're here to help! With our expertise and experience handling all sorts of mounting situations - like putting up large signs or banners without damaging them (and even showing customers how), there's no task too big for us.\n<h2>Practice Makes Perfect</h2>\nHandy professionals are the most experienced folks in their field, with thousands of installations under our belt. We're not satisfied until you are!"
+ },
+ {
+  "slug": "moving",
+  "title": "Moving",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "We know how stressful it can be to move house, and we want you to have a smooth transition. When booking with our company for local moving help in your area there's no need to worry about finding or renting the right truck - because our team will take care of everything!\n\nWe've got years experience working together, so rest assured knowing our work ethic is on point.\n<ul>\n \t<li>Vetted and screened professionals.</li>\n \t<li>Friendly 24/7 customer service.</li>\n \t<li>Backed by the Our Company Happiness Guarantee.</li>\n \t<li>Affordable, upfront pricing.</li>\n \t<li>No time windows, book when you want.</li>\n</ul>"
+ },
+ {
+  "slug": "cleaning",
+  "title": "Cleaning",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "When it comes to maintaining the hygiene of your home, a professional cleaning service is key. We use bio-degradable chemicals and equipment that will ensure every corner is deep cleaned by our experts.\n\nOur team is the best in town when it comes to cleaning sofas, carpets and curtains. We use high tech machines with grade chemicals which will keep your belongings stain free while sanitizing them at an affordable price!\n\nDon't settle for anything less than what our service offers because we're committed to provide top quality work every time.\n<h2>We provide the following Cleaning Services</h2>\n<ul class=\"provading_service\">\n \t<li>Apartment Cleaning</li>\n \t<li>Bedroom Cleaning</li>\n \t<li>Cleaning Service</li>\n \t<li>Hemlock Hardware: Cleaning</li>\n \t<li>Move In Cleaning</li>\n \t<li>Move Out Cleaning</li>\n \t<li>Room Cleaning</li>\n \t<li>Home Cleaning</li>\n \t<li>Office Cleaning</li>\n \t<li>Vacation Rental Cleaning</li>\n \t<li>Deep Cleaning Service</li>\n \t<li>Kitchen Cleaning</li>\n \t<li>Living Room Cleaning</li>\n \t<li>Local Cleaning Service</li>\n \t<li>Same Day Cleaning</li>\n \t<li>Home Sanitization</li>\n</ul>\n<h2>The following services are included in our packages</h2>\n<ul>\n \t<li>Scrubbing and vacuuming of f window channels.</li>\n \t<li>Deep cleaning of window glasses using eco-friendly chemicals.</li>\n \t<li>Kitchen cleaning includes scrubbing of platforms washbasins, removal of oily stains, internal and external cleaning of trolleys and cabinets. rust/stains removal from taps and wash basins.</li>\n \t<li>Exterior cleaning of electronics gadgets.</li>\n \t<li>Top to bottom scrubbing tiles of bathroom, disinfecting using bio-degradable chemicals.</li>\n \t<li>Interior and exterior wet cleaning of furnitures, wardrobes.</li>\n \t<li>Scrubbing and cleaning of floors</li>\n \t<li>Hard commercial vacuuming of mattress, sofa and curtains.</li>\n</ul>"
+ },
+ {
+  "slug": "assembly",
+  "title": "Assembly",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "<h2>Furniture Assembly, Bed Frames &amp; More</h2>\nThe assembly process can be confusing and time-consuming, but not with us! We’ll take care of getting your furniture out on the floor for you. It doesn't matter if it's a bed or bookshelf, we'll make sure everything goes together smoothly.\n<h2>Our Assembly Services Are Included But Not Limited To:</h2>\n<ul>\n \t<li>Bed Frame Assembly</li>\n \t<li>Bookcase Assembly</li>\n \t<li>Cabinet Assembly</li>\n \t<li>Deck Assembly</li>\n \t<li>Deck Furniture Assembly</li>\n \t<li>Desk Assembly</li>\n \t<li>Fence Assembly</li>\n \t<li>Grill Assembly</li>\n \t<li>Sofa Assembly</li>\n \t<li>Storage Rack Assembly</li>\n \t<li>Furniture Assembly</li>\n \t<li>Bike Assembly</li>\n \t<li>Table Assembly</li>\n</ul>\nWe are here to help you. Please let us know how we may be of assistance!"
+ },
+ {
+  "slug": "painting",
+  "title": "Painting",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "<h2>Tackling Interior &amp; Exterior Projects Of All Kinds</h2>\nWhen painting services are needed, it is important to hire a team that has experience with the job at hand. Our company offers everything you need for your next fresh coat of paint!\n<h2>Before We Get Started</h2>\nHiring our team to take care of any unwanted or damaged surfaces before painting begins ensures that your space will look its best. We can even inform you about which stains and paints are most aesthetically pleasing if unsure on the design aesthetic.\n<h2>Our Company Services Unlike Any Other</h2>\nWe’ve got your back! Hiring us will guarantee that the final project is a breeze. We take care of everything from holes and cracks, to filling in any sanding needed for paint replacement or cleanup on trim boards.\n<ul>\n \t<li>Primer on all raw or sanded surfaces</li>\n \t<li>Latex caulk for gaps on trim work</li>\n \t<li>Non-residue tarps to protect your property</li>\n \t<li>Plastic to protect your floors</li>\n \t<li>Air and airless sprayers, when appropriate, to achieve quality work</li>\n \t<li>Professional grade rollers and brushes</li>\n</ul>\nWe have a deep understanding of your needs and will work to deliver the desired result."
+ },
+ {
+  "slug": "plumbing",
+  "title": "Plumbing",
+  "banner": "",
+  "bg_position": "top",
+  "sections": [],
+  "content": "We are the plumber that’s right for you. No matter what your plumbing needs, from maintenance and repairs to replacement or new construction projects we can handle all of them at a reasonable price without any unwanted services added into the mix!\n<h2>Our Company can work with almost any element of your plumbing system, including, but not limited to:</h2>\n<ul>\n \t<li>Water mains</li>\n \t<li>Water softeners</li>\n \t<li>Showers</li>\n \t<li>Tubs</li>\n \t<li>Toilets</li>\n \t<li>Garbage disposals</li>\n \t<li>Dishwashers</li>\n \t<li>Sinks</li>\n \t<li>Drains</li>\n</ul>\nOur team can also add sewer lines, as well as replace, install, or relocate faucets for your convenience.\n<h2>WHY PROPERTY OWNERS TRUST US</h2>\nWe are a company that always follows the recommendations of our manufacturers when it comes to installations or repairs. We also pressure test your lines for leaks, perform back flush services in order kill algae inside them and make sure you're safe!"
+ }
+]
